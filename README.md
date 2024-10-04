@@ -1,4 +1,4 @@
-# Edge Unlearning is Not ``on Edge''! An Adaptive Exact Unlearning System on Resource-Constrained Devices
+# Edge Unlearning is Not "on Edge"! An Adaptive Exact Unlearning System on Resource-Constrained Devices
 
 ### Language Version:
 Python 3.9.18
